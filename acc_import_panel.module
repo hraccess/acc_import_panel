@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Access Import Panel feature.
+ */
+
+include_once 'acc_import_panel.features.inc';
